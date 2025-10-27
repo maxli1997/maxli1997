@@ -31,7 +31,7 @@ My current focus is VLM post-training, Agent and Reinforcement Learning.
 
 ### Repos:
 
-<details>
+
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
   <br />
@@ -114,7 +114,7 @@ My current focus is VLM post-training, Agent and Reinforcement Learning.
     </tbody>
   </table>
   <br />
-</details>
+
  
 
 
