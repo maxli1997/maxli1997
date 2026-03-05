@@ -48,7 +48,7 @@ My current focus is VLM post-training, Agent and Reinforcement Learning.
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/maxli1997/VTool-R1"><b>CoT-Decoding</b></a></td>
+	      <td><a href="https://github.com/maxli1997/VTool-R1"><b>ICLR2026-VTool-R1</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/maxli1997/VTool-R1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/maxli1997/VTool-R1?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/maxli1997/VTool-R1?style=flat-square"/></td>
@@ -56,12 +56,12 @@ My current focus is VLM post-training, Agent and Reinforcement Learning.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/maxli1997/VTool-R1?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/maxli1997/cache-of-thoughts"><b>Cache-of-Thought</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/maxli1997/cache-of-thoughts?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/maxli1997/cache-of-thoughts?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/maxli1997/cache-of-thoughts?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maxli1997/cache-of-thoughts?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/maxli1997/cache-of-thoughts?style=flat-square"/></td> 
+	      <td><a href="https://github.com/maxli1997/Cache-of-Thoughts"><b>EMNLP2025-Cache-of-Thoughts</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/maxli1997/Cache-of-Thoughts?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/maxli1997/Cache-of-Thoughts?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/maxli1997/Cache-of-Thoughts?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maxli1997/Cache-of-Thoughts?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/maxli1997/Cache-of-Thoughts?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
